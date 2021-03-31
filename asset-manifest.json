@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.4871fb39.chunk.css",
-    "main.js": "/static/js/main.fd28e510.chunk.js",
-    "main.js.map": "/static/js/main.fd28e510.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.63650cf7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.63650cf7.js.map",
-    "static/css/2.e1d0e9fa.chunk.css": "/static/css/2.e1d0e9fa.chunk.css",
-    "static/js/2.3b33a650.chunk.js": "/static/js/2.3b33a650.chunk.js",
-    "static/js/2.3b33a650.chunk.js.map": "/static/js/2.3b33a650.chunk.js.map",
-    "static/js/3.9b059170.chunk.js": "/static/js/3.9b059170.chunk.js",
-    "static/js/3.9b059170.chunk.js.map": "/static/js/3.9b059170.chunk.js.map",
+    "main.css": "/static/css/main.92d93ae8.chunk.css",
+    "main.js": "/static/js/main.357103b5.chunk.js",
+    "main.js.map": "/static/js/main.357103b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b96f1d3a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b96f1d3a.js.map",
+    "static/css/2.3c824259.chunk.css": "/static/css/2.3c824259.chunk.css",
+    "static/js/2.4ddba842.chunk.js": "/static/js/2.4ddba842.chunk.js",
+    "static/js/2.4ddba842.chunk.js.map": "/static/js/2.4ddba842.chunk.js.map",
+    "static/js/3.02d83c2c.chunk.js": "/static/js/3.02d83c2c.chunk.js",
+    "static/js/3.02d83c2c.chunk.js.map": "/static/js/3.02d83c2c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.e1d0e9fa.chunk.css.map": "/static/css/2.e1d0e9fa.chunk.css.map",
-    "static/css/main.4871fb39.chunk.css.map": "/static/css/main.4871fb39.chunk.css.map",
-    "static/js/2.3b33a650.chunk.js.LICENSE.txt": "/static/js/2.3b33a650.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/static/media/bootstrap-icons.cc252f2c.woff",
+    "static/css/2.3c824259.chunk.css.map": "/static/css/2.3c824259.chunk.css.map",
+    "static/css/main.92d93ae8.chunk.css.map": "/static/css/main.92d93ae8.chunk.css.map",
+    "static/js/2.4ddba842.chunk.js.LICENSE.txt": "/static/js/2.4ddba842.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/bootstrap-icons.0f69dcdb.woff",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.63650cf7.js",
-    "static/css/2.e1d0e9fa.chunk.css",
-    "static/js/2.3b33a650.chunk.js",
-    "static/css/main.4871fb39.chunk.css",
-    "static/js/main.fd28e510.chunk.js"
+    "static/js/runtime-main.b96f1d3a.js",
+    "static/css/2.3c824259.chunk.css",
+    "static/js/2.4ddba842.chunk.js",
+    "static/css/main.92d93ae8.chunk.css",
+    "static/js/main.357103b5.chunk.js"
   ]
 }
