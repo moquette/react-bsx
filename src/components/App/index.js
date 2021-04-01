@@ -9,7 +9,7 @@ function App() {
     <>
       <Header />
       <main className={styles.main}>
-        <img src={logo} className="w-25 m-5" alt="logo" />
+        <img src={logo} className="w-50" alt="logo" />
       </main>
       <Footer />
     </>
