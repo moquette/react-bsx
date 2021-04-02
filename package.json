@@ -30,9 +30,9 @@
     }
   },
   "lint-staged": {
-    "src/**/*.{js,jsx,json}": [
-      "yarn format",
-      "yarn lint:fix"
+    "src/**/*.{js,jsx,json,css,scss,md}": [
+      "yarn prettier --write",
+      "eslint --fix"
     ]
   },
   "dependencies": {
