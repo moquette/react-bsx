@@ -2,13 +2,13 @@ import React from 'react';
 import { ReactComponent as Logo } from '../../logo.svg';
 import Header from '../Header';
 import Footer from '../Footer';
-import styles from './styles.module.scss';
+import './styles.scss';
 
 function App() {
   return (
     <>
       <Header />
-      <main className={styles.main}>
+      <main className="main">
         <Logo title="Logo" />
       </main>
       <Footer />

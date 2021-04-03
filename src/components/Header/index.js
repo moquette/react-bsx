@@ -1,15 +1,15 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
-import styles from './styles.module.scss';
+import './styles.scss';
 
 const Header = (props) => {
   const { title } = props;
   return (
-    <header className={styles.header}>
+    <header className="header">
       <nav className="navbar fixed-top navbar-expand-md navbar-light bg-white shadow-sm">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            <i className="bi bi-bootstrap" /> {title || 'RBSX'}
+            {title || 'RBSX'}
           </a>
           <button
             className="navbar-toggler"
