@@ -1,8 +1,9 @@
-.navbar-brand {
-  font-weight: 900;
-}
+.navbar {
+  .navbar-brand {
+    font-weight: 900;
+  }
 
-.navbar-light .navbar-nav .show > .nav-link,
-.navbar-light .navbar-nav .nav-link.active {
-  border-bottom: 1px solid #000;
+  .nav-link.active {
+    border-bottom: 1px solid #000;
+  }
 }
