@@ -6,7 +6,7 @@ const Header = (props) => {
   const { title } = props;
   return (
     <header>
-      <nav className="navbar navbar-expand-md navbar-light fixed-top bg-white text-dark shadow-sm">
+      <nav className="navbar navbar-expand-md navbar-light fixed-top bg-white text-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
             {title || 'RBSX'}
