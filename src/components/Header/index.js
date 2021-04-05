@@ -5,28 +5,25 @@ import './styles.scss';
 const Header = (props) => {
   const { title } = props;
   return (
-    <header className="header">
-      <nav className="navbar fixed-top navbar-expand-md navbar-light bg-white shadow-sm">
+    <header>
+      <nav className="navbar navbar-expand-md navbar-light fixed-top bg-white text-dark shadow-sm">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
             {title || 'RBSX'}
           </a>
           <button
-            className="navbar-toggler"
+            className="navbar-toggler collapsed"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#navbarTogglerDemo01"
-            aria-controls="navbarTogglerDemo01"
+            data-bs-target="#navbar"
+            aria-controls="navbar"
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
             <span className="navbar-toggler-icon" />
           </button>
-          <div
-            className="collapse navbar-collapse justify-content-end"
-            id="navbarTogglerDemo01"
-          >
-            <ul className="navbar-nav mb-2 mb-lg-0">
+          <div id="navbar" className="navbar-collapse collapse">
+            <ul className="navbar-nav mb-2 mb-md-0">
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
                   Home

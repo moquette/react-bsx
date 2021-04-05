@@ -1,16 +1,8 @@
-.header {
-  .navbar {
-    height: var(--header-height);
-  }
+.navbar-brand {
+  font-weight: 900;
+}
 
-  .navbar-brand {
-    font-weight: 900;
-  }
-  .navbar-light .navbar-nav .show > .nav-link,
-  .navbar-light .navbar-nav .nav-link.active {
-    border-bottom: 1px solid #000;
-  }
-
-  @media (max-width: 768px) {
-  }
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link.active {
+  border-bottom: 1px solid #000;
 }
